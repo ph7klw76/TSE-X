@@ -1,1 +1,1 @@
-# TSE-X
+# Theory–Simulation–Experiment-Execution (TSE-X)
